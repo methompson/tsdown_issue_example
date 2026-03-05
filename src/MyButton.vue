@@ -16,4 +16,8 @@ const count = ref(0);
   </button>
 </template>
 
-<style></style>
+<style>
+.my-button {
+  color: red;
+}
+</style>
